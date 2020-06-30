@@ -1,4 +1,4 @@
-# Dog-Classification
+# Dog-Classification(Kaggle competition )
 
 ### Its a simple dog classification system problem.It uses transfer learing approach.It uses mobil-net v2 architecture.
 
